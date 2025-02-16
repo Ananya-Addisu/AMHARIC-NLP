@@ -1,4 +1,4 @@
-# Amharic-NLP Projects
+# Amharic-NLP
 
 
 ## getting started
