@@ -1,7 +1,7 @@
 # Amharic-NLP
 
 
-## getting started
+## Requirement
  ------------------------  
  
         pip install -r requirements.txt
